@@ -579,7 +579,7 @@ namespace GHBit {
         } 
     }  
     //% blockId=GHBit_Min_Motor block="Min_Motor|value %value"
-    //% weight=87
+    //% weight=100
     //% blockGap=10
     //% color="#C814B8"
     //% name.fieldEditor="gridpicker" name.fieldOptions.columns=12
